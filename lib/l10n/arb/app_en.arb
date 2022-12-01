@@ -1,0 +1,36 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "appName":"Bhavin Demo",
+  "failedFbLogin":"Unable to login using Facebook!",
+  "failedGoogleLogin":"Unable to login using gmail!",
+
+  "loginSuccess":"You have logged in successfully!",
+
+  "addSuccess":
+      "You have added student details successfully!",
+  "editSuccess":
+      "You have changed student details successfully!",
+  "deleteSuccess":
+      "You have deleted student details successfully!",
+
+  "addFailed":"Unable to add student details!",
+  "editFailed":"Unable to edit student details!",
+  "deleteFailed":"Unable to delete student details",
+
+  "validationName":"Please add name to continue.",
+  "validationPhoto":"Please add photo to continue.",
+  "validationScoreOne":
+      "Please add score of English to continue.",
+  "validationScoreTwo":
+      "Please add score of Maths to continue.",
+  "validationScoreThree":
+      "Please add score of Science to continue.",
+"emptyData":"No cats yet...!",
+"loadingCat":"Loading cats.. meww.. meww..",
+"catList":"Cat List",
+"changeCat":"Add/Edit Cat"
+}
