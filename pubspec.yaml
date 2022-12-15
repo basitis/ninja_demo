@@ -21,7 +21,7 @@ dependencies:
   path_provider: 2.0.11
   flex_color_scheme: 6.0.1
   equatable:
-  form_validator: ^1.0.3
+  form_validator: ^2.0.0
 
 dev_dependencies:
   flutter_test:
